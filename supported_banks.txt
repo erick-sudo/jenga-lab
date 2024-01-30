@@ -1,0 +1,8 @@
+
+Kenya				KE
+Uganda				UG
+Tanzania			TZ
+Rwanda				RW
+Democratic Republic of Congo	DRC
+South Sudan			SS
+Ethiopia			ET
