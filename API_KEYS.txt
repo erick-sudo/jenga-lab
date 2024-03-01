@@ -1,4 +1,4 @@
 MerchantCode: 	1619371299
-ConsumerSecret: eof5u68V038m8TETeQT79Dl7EgbJCx
-API_Key: 	vjwEOE80+9bzoYbYIMNq79T85+AL0V2KgGkRI6K9mViDBwDMdIRQ12c1kVwtAGzngDNXySFsDtScfQ4rVyTu9A==
+ConsumerSecret: 8xoMtY8Nt4d4ckXKJ545lw2w6L0DXJ
+API_Key:        j+mMWyPbuqvcwY+eZQN7Q72igAWZqTqpcBuxaRjc3SX1+4fIfVlYr9c3qIgbwLcXHBD4HTib47WTk/QTRm3DcA==
 
